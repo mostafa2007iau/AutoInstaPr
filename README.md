@@ -51,7 +51,7 @@
 
 ```bash
 # 1. ریپوزیتوری را کلون کنید
-git clone https://github.com/yourusername/instagram-automation.git
+git clone https://github.com/mostafa2007iau/AutoInstaPr.git
 cd instagram-automation
 
 # 2. اسکریپت نصب را اجرا کنید
@@ -81,7 +81,7 @@ chmod +x install-docker.sh
 
 ```bash
 # 1. پروژه را کلون کنید
-git clone https://github.com/yourusername/instagram-automation.git
+git clone https://github.com/mostafa2007iau/AutoInstaPr.git
 cd instagram-automation
 
 # 2. اسکریپت نصب را اجرا کنید
